@@ -47,7 +47,7 @@ pip install underthesea pyvi
 
 ## Hướng dẫn sử dụng
 
-### 1️⃣ Kiểm tra kết nối dữ liệu
+### 1️ Kiểm tra kết nối dữ liệu
 
 ```text
 data_retrieve.ipynb
@@ -59,7 +59,7 @@ data_retrieve.ipynb
 
 ---
 
-### 2️⃣ Sparse Retrieval (BM25)
+### 2️ Sparse Retrieval (BM25)
 
 ```text
 Sparse_BM25.ipynb
@@ -72,7 +72,7 @@ Sparse_BM25.ipynb
 
 ---
 
-### 3️⃣ Dense Retrieval (Embedding)
+### 3️ Dense Retrieval (Embedding)
 
 ```text
 Dense_me5base.ipynb
@@ -85,7 +85,7 @@ Dense_me5base.ipynb
 
 ---
 
-### 4️⃣ Tổng hợp & đánh giá
+### 4️ Tổng hợp & đánh giá
 
 ```text
 Main.ipynb
@@ -112,5 +112,4 @@ Main.ipynb
 * Dự án mang tính **học thuật / cá nhân**
 * Code viết để chạy trực tiếp trong Jupyter Notebook
 ---
-
 Chỉ sử dụng cho mục đích học tập (Educational Use)
